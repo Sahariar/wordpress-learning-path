@@ -1,7 +1,7 @@
 ## Intro
 This learning path is a self-reminder for me to stay on track in my WordPress Development journey as i still have a long way to go. When i first started out, i had my fair share of confusion with plethora of tools available online in web development, which wasted a lot of my time. My goal is to save you from wasting yours.
 
-This learning path is a guide i came up with after learning from my own mistakes and asking a lot of experienced WordPress Developers about their opinion. The WordPress Development Toolset has not changed drastically over the years, so rest assured you will be using these tools and technologies in a long haul. Now all there for me to say is, Good Luck and Happy Coding!!!
+This learning path is a illustrated step-by-step guide i came up with after learning from my own mistakes and asking a lot of experienced WordPress Developers about their opinion. The WordPress Development Toolset has not changed drastically over the years, so rest assured you will be using these tools and technologies in a long haul. Now all there for me to say is, Good Luck and Happy Coding!!!
 
 ## A Learning Path for Newbies in WordPress Development
 
